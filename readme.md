@@ -24,22 +24,17 @@ A curated list of awesome 3D printing resources.
 
 ## 3D Printer Brands
 
-- [3D Kreator](http://3dkreator.com) - Manufacturer of the "Kreator Motion" universal 3D printer.
 - [3D Systems](http://www.3dsystems.com) - 3D printers, print materials, on-demand parts services and digital design tools.
-- [Construction Zone](http://construction-zone.de)
 - [CraftUnique](https://craftunique.com)
-- [Cubify](http://cubify.com)
 - [Dremel](https://digilab.dremel.com) - 3D printers and laser cutters.
 - [Formlabs](http://formlabs.com)
 - [Flashforge](http://ff3dp.com)
-- [German RepRap](https://germanreprap.com)
-- [Kentstrapper](http://kentstrapper.com/en)
+- [innovatiQ](https://www.innovatiq.com)
 - [Lumi Industries](http://lumindustries.com)
 - [Lulzbot](https://www.lulzbot.com) - Open hardware 3D printers and accessories.
 - [MakerBot](http://makerbot.com)
 - [Makergear](https://www.makergear.com)
 - [Monoprice](https://www.monoprice.com/pages/3d_printers) - Monoprice branded Wanhao printers.
-- [Peachy Printer](http://peachyprinter.com) - The world's first 100$ 3D printer.
 - [Printrbot](http://printrbot.com)
 - [Prusa Research](http://www.prusa3d.com) - 3D printers from Josef Prusa.
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
@@ -49,9 +44,6 @@ A curated list of awesome 3D printing resources.
 - [Tractus3D](http://tractus3d.com) - Delta 3D printers in 3 sizes.
 - [Trideo3D](http://trideo3d.com) - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker](https://ultimaker.com)
-- [XYZprinting](https://xyzprinting.com) - Cost-effective 3D printers.
-- [Up3d](https://up3d.com)
-- [Wanhao](https://www.wanhao3dprinter.com)
 
 
 ## CAD Tools
@@ -113,7 +105,6 @@ Convert 3D models into G-Code.
 
 - [CraftWare](https://craftunique.com/craftware)
 - [Cura](https://ultimaker.com/en/products/cura-software)
-- [Katana](http://printr.com/katana)
 - [Kiri:Moto](https://grid.space/kiri/) - Web based slicer for 3D printers, CNC mills, and Laser cutters.
 - [KISSlicer](http://kisslicer.com)
 - [MatterControl](http://mattercontrol.com)
@@ -123,20 +114,13 @@ Convert 3D models into G-Code.
 
 ## Scanner
 
-- [123D Catch](http://www.123dapp.com/catch) - Free app to create 3D scans of virtually any object.
-- [iSense 3D scanner](http://cubify.com/products/isense)
-- [MakerBot Digitizer](http://makerbot.com/makerware-for-digitizer)
 - [Matter and Form](https://matterandform.net/scanner) - Professional grade scanner.
-- [Nextengine](http://nextengine.com)
-- [Scanify](https://www.fuel-3d.com/scanify) -  High-speed, high resolution, handheld 3D scanner.
-- [Sense](http://cubify.com/products/sense) - 3D Scanner.
 
 
 ## Online 3D Model Repositories
 
 From 3D printer manufacturer:
 
-- [123D Gallery](http://123dapp.com/Gallery) (from Autodesk)
 - [Thingiverse](https://thingiverse.com) (from Makerbot)
 - [YouMagine](https://youmagine.com) (from Ultimaker)
 - [Printables](https://printables.com) (from Prusa Research)
@@ -147,7 +131,6 @@ Independent:
 - [3D Via](https://www.3ds.com/products/3dvia)
 - [Astroprint](https://www.astroprint.com/)
 - [CGtrader](https://www.cgtrader.com/)
-- [Cuboyo](http://cuboyo.com)
 - [Cults](https://cults3d.com) - Find, share and sell 3D print files.
 - [GrabCAD](https://grabcad.com)
 - [MyMiniFactory](https://www.myminifactory.com/)
@@ -159,7 +142,6 @@ Independent:
 - [SketchFab](https://sketchfab.com)
 - [TF3DM](http://tf3dm.com)
 - [Turbosquid](https://www.turbosquid.com)
-- [Uformit](http://uformit.com)
 
 Self-Hostable:
 
@@ -171,10 +153,6 @@ Self-Hostable:
 - [BotQueue](https://github.com/Hoektronics/BotQueue) - Control your 3D printers over the internet.
 - [Clara.io](https://clara.io) - Cloud-based 3D modeling, animation and rendering.
 - [gcode.ws](http://gcode.ws) - Gcode analyzer.
-- [GetAnywhere](https://www.getanywhere.io) - Remotely monitor your OctoPrint.
-- [Lagoa](http://home.lagoa.com) - Create kinematic assemblies, renders and photoreal interactive 3D experiences in the browser.
-- [Meshify](http://meshify.dk) - Convert a 3D model into a 3D printable mesh-like lattice structure.
-- [WeDesign](http://wedesign.live) - Collaborative platform for 3D design.
 - [Vectary](http://vectary.com) - Browser-based 3D modeling.
 
 
@@ -187,50 +165,40 @@ Self-Hostable:
 
 From game assets:
 
-- [Whispering Gibbon](http://whisperinggibbon.com) - 3D printing virtual content.
-- [Fabzat](http://fabzat.com) - In app custom merchandising.
 - [Toyze](http://toyze.com) - Bring game characters to life as customized toys.
 
 
 ## Marketplaces
 
-- [Zazzy](https://zazzy.co) - Create and sell 3D printed accessories.
 - [Microscape](http://microscape.co) - Minature scale 3D printed architectural models.
 - [iGo3D](https://igo3d.com) - 3D printing online store.
 
 
 ## On Demand 3D Printing Price Comparison
 
-- [3Dprintler](https://3dprintler.com)
 - [3yourmind](https://3yourmind.com)
 
 
 ## Remote Control
 
-- [The Element](http://printr.com/the_element) - Streaming device you can connect to your 3D printer via USB.
 
 
 # Search Engines
 
-- [3Dshap.es](http://3dshap.es) - Find 3D Printable Designs Using 3D shapes.
-- [Yobi3d](https://yobi3d.com) - 3D model search engine with direct 3D printing support via [3D Hubs](https://3dhubs.com).
 
 
 ## Technologies
 
-- [NewPro3D](http://newpro3d.com) - Wettable membrane for high speed resin based 3D printing.
 - [Carbon3D](http://carbon3d.com/) - Balancing the interaction of light and oxygen for fast resin based 3D printing.
 - [iopscience.iop.org/article/10.1088](http://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01) - 3D printed components with ultrasonically arranged microscale structure.
 
 
 ## Education
 
-- [Makerclub](http://makerclub.org) - Online courses for 3D printing and the internet of things.
 
 
 ## Accessories
 
-- [REVOcaster](http://magicmaker.ca/#revo11) - Desktop rotational casting machine.
 
 
 ## Filaments
